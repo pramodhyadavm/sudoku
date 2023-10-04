@@ -8,7 +8,8 @@ Mini - Project Report
 
 Submitted by
 PRAMODH YADAV M      20201ISE0053
-
+PURVIKA S            20201ISE0050
+KAVANA               20201ISE0070
 In partial fulfillment for the requirement of 6th Semester
 CSE3150 Front End Full Stack Development
 
